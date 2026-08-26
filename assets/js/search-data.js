@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Last updated - April, 2026",
+          description: "Last updated - July, 2026",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -453,7 +453,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/YuanPu_CV_20260414.pdf", "_blank");
+          window.open("/assets/pdf/YuanPu_CV_20260708.pdf", "_blank");
         },
       },{
         id: 'social-email',
