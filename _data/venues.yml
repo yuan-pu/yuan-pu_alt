@@ -7,3 +7,43 @@
 
 "Vision":
   color: "#009f36"
+
+"ACL Findings":
+  url: https://aclanthology.org/events/acl-2026/#2026findings-acl
+  color: "#2f6f9f"
+
+"SAIL":
+  url: https://sail.health/
+  color: "#1f8a70"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#8a4f9f"
+
+"CHI":
+  url: https://chi2024.acm.org/
+  color: "#b85042"
+
+"ML4H":
+  url: https://www.ml4h.cc/
+  color: "#477a42"
+
+"npj DM":
+  url: https://www.nature.com/npjdigitalmed/
+  color: "#555555"
+
+"AP&T":
+  url: https://onlinelibrary.wiley.com/journal/13652036
+  color: "#6f5a8f"
+
+"PLOS CB":
+  url: https://journals.plos.org/ploscompbiol/
+  color: "#0b6e69"
+
+"bioRxiv":
+  url: https://www.biorxiv.org/
+  color: "#ad6d00"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
