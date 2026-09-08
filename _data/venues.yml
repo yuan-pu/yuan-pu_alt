@@ -14,31 +14,31 @@
 
 "SAIL":
   url: https://sail.health/
-  color: "#1f8a70"
+  color: "#3f7fa8"
 
 "NeurIPS":
   url: https://neurips.cc/
-  color: "#8a4f9f"
+  color: "#245f8f"
 
 "CHI":
   url: https://chi2024.acm.org/
-  color: "#b85042"
+  color: "#4f8fb8"
 
 "ML4H":
   url: https://www.ml4h.cc/
-  color: "#477a42"
+  color: "#5f9fc8"
 
 "npj DM":
   url: https://www.nature.com/npjdigitalmed/
-  color: "#555555"
+  color: "#3f7f5f"
 
 "AP&T":
   url: https://onlinelibrary.wiley.com/journal/13652036
-  color: "#6f5a8f"
+  color: "#2f6f4f"
 
 "Tox Sci":
   url: https://academic.oup.com/toxsci
-  color: "#5f6c2f"
+  color: "#4f8f6f"
 
 "DDW":
   url: https://ddw.org/
@@ -46,7 +46,7 @@
 
 "PLOS CB":
   url: https://journals.plos.org/ploscompbiol/
-  color: "#0b6e69"
+  color: "#5f9f7f"
 
 "bioRxiv":
   url: https://www.biorxiv.org/
@@ -54,4 +54,4 @@
 
 "arXiv":
   url: https://arxiv.org/
-  color: "#b31b1b"
+  color: "#666666"
