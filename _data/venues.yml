@@ -36,6 +36,14 @@
   url: https://onlinelibrary.wiley.com/journal/13652036
   color: "#6f5a8f"
 
+"Tox Sci":
+  url: https://academic.oup.com/toxsci
+  color: "#5f6c2f"
+
+"DDW":
+  url: https://ddw.org/
+  color: "#995f2f"
+
 "PLOS CB":
   url: https://journals.plos.org/ploscompbiol/
   color: "#0b6e69"
